@@ -18,7 +18,7 @@ plugins {
 }
 
 android {
-    namespace = "com.aarogyamfin.app"
+    namespace = "app.aarogyamfin.android"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -32,7 +32,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.aarogyamfin.app"
+        applicationId = "app.aarogyamfin.android"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

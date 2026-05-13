@@ -1,4 +1,4 @@
-package com.aarogyamfin.app
+package app.aarogyamfin.android
 
 import io.flutter.embedding.android.FlutterActivity
 
